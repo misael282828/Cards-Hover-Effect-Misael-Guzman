@@ -47,7 +47,7 @@ body{
 }
 
  .card:hover{
-    transform: translateY(-15px);
+    transform: translateY(-15px);  /*movimiento de las cartas*/ 
     box-shadow: 0 12px 16px rgba(0, 0, 0, 0.50);
 }
 
